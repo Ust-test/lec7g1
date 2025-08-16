@@ -4,6 +4,11 @@
 - [@UST](https://www.github.com/Ust-test)
 
 
+## Demo
+
+click this link to view the project
+- [@Demo](https://ust-test.github.io/lec7g1/)
+
 ## Documentation
 
 [Documentation](https://linktodocumentation)
@@ -85,8 +90,5 @@ This project is used by the following companies:
 - Company 2
 
 
-## Demo
-
-Insert gif or link to demo
 
 
